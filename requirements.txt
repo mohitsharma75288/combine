@@ -1,5 +1,5 @@
 camelcase==0.2
-Django==2.1
+Django==1.6.2
 mysql-connector==2.1.6
 psycopg2==2.7.5
 pytz==2018.5
